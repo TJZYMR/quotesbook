@@ -10,5 +10,12 @@
 4)"i like green lastly"-tj
 
 5)for diff i added this
+d
+f
+df
+df
+d
+fd
+f
 
 
