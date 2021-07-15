@@ -2,4 +2,9 @@
 
 2)“The Pessimist Sees Difficulty In Every Opportunity. The Optimist Sees Opportunity In Every Difficulty.” – Winston Churchill
 
+<<<<<<< HEAD
 3)live long and propser-tatva joshi
+=======
+3)“When your famous everyone is trying to elevate themselves by trying to bring you down.”
+― De philosopher DJ Kyos
+>>>>>>> inspirational_quotes
